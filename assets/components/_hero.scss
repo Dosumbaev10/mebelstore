@@ -1,0 +1,89 @@
+.hero{
+    margin-top: 60px;
+    &__content{
+        display: flex;
+        justify-content: center;
+    }
+    &__bestseller{
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+}
+
+.cardscatal{
+        width: 263px;
+        height: 488px;
+    &__descriptions{
+        margin: 54px 20px 20px 20px;
+    }
+    &__like{
+        display: flex;
+        justify-content: flex-end;
+    }
+    &__img{
+        width: 200px;
+        height: 150px;
+        margin: 38px 31px 0 31px;
+    }
+    &__name{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 19px;
+    }
+    &__price{
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+    }
+    &__titles{
+        display: none;
+    }
+    &__parametres{
+        display: flex;
+        margin-bottom: 10px;
+         justify-content: space-between;
+         align-items: center;
+        font-weight: 400;
+        font-size: 9px;
+    }
+    &__btn{
+        width: 223px;
+        height: 40px;
+        background: #245462;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        border: none;
+        color: white;
+    }
+    &__types{
+        margin: 9px 0 12px 0;
+        font-weight: 400;
+        font-size: 12px;
+    }
+    &__sizes{
+        margin: 16px 0 10px 0;
+        font-weight: 400;
+        font-size: 12px;
+    }
+}
+.cardscatal:hover{
+    .card__titles{
+        display: block;
+    }
+}
+
+.pages{
+    margin-top: -15px;
+    &__list{
+        max-width: 315px;
+        height: 14px;
+        display: flex;
+        justify-content: space-between;
+        font-weight: 400;
+        font-size: 12px;
+    }
+}

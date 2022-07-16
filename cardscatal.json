@@ -1,0 +1,118 @@
+{
+    "products": [
+        {
+            "img":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxISEBUQEBIQFRUQFRUQFRUVFxUVFQ8XFRUWFxUVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NFQ8PFTcZFRkrLi4rKyswListLSs3LSsxLSsrNystLSstLSsrKzctLS0rLSsrLSsrKystLSsrKysrK//AABEIALYBFQMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAAAQIDBAUHBgj/xABHEAACAQICBgQLAwkIAwEAAAAAAQIDEQQhBQYSMUFxUWGRsQcTIjJCcoGhssHRM1KSIzQ1U2JzwtLhFCQlQ2OCovAWF7MV/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT/xAAdEQEBAQEAAgMBAAAAAAAAAAAAARECMUEDEyES/9oADAMBAAIRAxEAPwDouK16o069XDyp1L0ZbN1s2n0tZ9N17Br19o/q6nbH6nPNZ8tJ1/Wb7ZzZVcwOky8IFPhRn+JfQrYjwipRbjh7tK+dTfbh5pzt1COpUyYHRP8A2RdJrDrNX+0f8ox+EeX6iP43/Kc4oz8lD9sDoT8I0/1EPxP6EVfwj1lZqlS3pO+08nllmuNjwe2MrSy9sfiQHvn4RK/6uh2T/mGPwhYj7lH8Mv5jw+0LtAezev8Aiuil+F/Ug/8APsXtNbULWUvMXk3urLq8njnmeT2iNy8p9aj/ABlHsnr5i/vQ/DEdHXfFv04/hh9DyESWLKPVz1uxU014xroaUU0+D3Z58HkxmG1xxMoqTqvPqX0PNwlYi0W/yceSvn1AewWtGIf+bIs4fTlabtKpOz/aa7jzFNmjg5ZgdM0BWlPC0pybbcFdve+F31mgZeq/5nR9RGoZAAAAAAAAAAAAAAAAAAAAAAAAAAAcM1t/SeI6pfORRkzQ1xX+KYjmvmZjYDZSI5sdIjmwG03kOuR0tyHhT7jK0svbH4kKhtZ5e1d6AmuJcbcGA7aI7+V7I/xjkyNS8t8o/wAYFmBOmQQkiRFFmnYj0evycX0pdyHU5CaP+yh6se4IuQRewqKMS5h2UdQ1X/M6PqJmoZWq35lQ/dxNUyAAAAAAAAAAAAAAAAAAAAAAAAAAA4drj+k8RzXzMqRpa5fpSv8A94szGA1kc9w9kc9z5BTae4cNp7hwCjK272rvRZp4SpLzadR8oSfcha2ja9vsK+9f5c+nkQQiMdODi7STT6Gmn2Ma0UIiK/lvlH+IlbIqavP2L+ICzTJYsjjG7ss28klvfI2NH6uYmpup7KfGfk/8d/uAoxmN0ZP8lHku5HrKOpE19pViupRbfeTYXUaEEo+Om7WXmxV7L+gHnYMtUZG+9T7ebV7Y/NMq1dXa0M0oz9V59j+QHvNU/wAxofu0zWMvVeLWCoJppqnFNPJp2zTXBmoEAAAAAAAAAAAAAAAAAAAAAAAAAABw7XT9J1/Z8/qZEzW16X+KVnyXu/qZKV2le13a/R1gRs2tHaq4isruPiov0qmTfKG/tsez0DobD0M6flVOMp22423q26O9bt91m1ZmuoX3/V/RAeZ0bqXQgl4xyqvrvGPsS+bZ6LB6Op01anThD1YpdrW8tU6Tz6re8nVMCFUx3iydQF2QKlbCxmtmcYyXRJJrsZhaQ1Mw1RNwjKm+mDy9sHl2WPT2QmWb6N4HKtJ6o4mlK0Y+Ni90ocPWi/N7usNCaqzqS8ZWfioWWXpys5Z29FZ73v4I6tFJq6tzMrG6Pk5bdJpNedCWSlya3Pf1bt3EuoNE6DpUleEFBbm3nOfrS+SyXuNak0l5K4tdbtxIcHVUqcc1e2drPlsvdYtxkty/7zYQzxfF8M7fUWMOL3v3LoH7Q5sBmwI4EqYXAjpycXeOXTxvzL2HxqeUsn7n9CrsvpGzi1m0rdIGuBmaO0nTkmttNJ2T3xfKW5mjCaaumnyzAcAAAAAAAAAAAAAAAAAAAAAABxjWvCOtpidJO23KMb79lbKbduOV37Daqam0Ir/Ml1uWfusjM0hVX/78m3ulNdlKVvke7vcg85WwTUo1IupGcEoqcLtytdWnFJ34cHe7yXH0GCxcdlJxqX4vxVWKb6bOOQk4jL9JRoqrHpfY18hHWiiimKBdWJXX7vqJ/aUVAsBZniOMVn17hP7RxtZ8eggsFgFqO+cW4PpVu53RBi8OqsHTqylKMk4yXkxU0+ErLNdRNYWwFHRujKWHjsUduMVmouc5qPVHbb2V1KyNDxrG2FsA2t5as9pL9mc6b7YSTHqbStd2XXJvtbuIoi7ICbXW+2X1EeY6wtgIthdEfakxv9mh+rp89iN+2xYsFgGO73thG6d02n1ZElgsBNTx1Rcb81f37yzT0p96PY/kyhsi7IGvTx0Hxtzy9+4sRknmmnyMHZFirbgN4DIhiprjfnmWIaQfpR7PoBfArwxkHxtzJ4yT3AKAAAAAAAAAHBddcTOnpStUptxlGbaa9qeT38T0er2vFOo9jEpU5P019nJ9L+4/d1o81r5G+kK/rvvMDYA7m3dXWaeafSRyOUaC1kr4XyYvap8acvN/2v0Xyy6mdD0Rp6jiV+TdpcYSykuX3lyA0lIlhIrsRTsBcSFsQ06pYQCWCw5IWwDbBYfYLANsFh9hbAMsLYdYWwDLC2HJC2AZYWw6wtgGWFsOFsAywth1hdh9ADbBYk8WxVSYEVhbEviusXxXWBDYWOW7Il2F0i7KAWGKmuN+ZPDG9K7Cvl0C3XQBfhVi9zHmcpFjC1b5AWQAAOD66/pDEfvH3mE0buuMP79iH/qz+JmKiKhcBKcpRalFtNZprJon2SJoI9boPXRq1PE5r9YvOXrL0ue/mexo4iE4qcJKUXuazTOPSgW9GaVq4eW1Tllxi84y5oK6xtE1LEWPOaF1np10ou0Z/db871W9/I2HX4JZvh0FRsU6qZKY1KvZ27bGpCTVrgTCktOKaH2S4AQWBRLF10INsCFQfQOVJkjY1yATxTF8V1hcLgL4tC7KGiXAfl0C7XUR3FuA/bDbIxQHbQXGgAtwuIFgFuFyKpiIR86cI+tJLvKdXTeGjvr0vZLa+G4GiDf9eow6mtWFW6pJvqhL5pFOeuFBboVZc1FfNjR6hyRJhJPby3Znhamt8U240d/3p5dij8+JXlrvXT2oRpRyta0nZfiJq46mB5rUjTlXF06kquzenNRWyrZON88wKivp3UHDYmpUr7VWFWqlmneCkr+U4PpvnZr2HKtOaHrYSr4qtG33ZLONRLjF8e9cT6CKWl9FUcVSdGvBSi93TB8JRfBkwfPcpEeyek1r1RrYGW1nUoSdo1LZxvujUXB9e5+5eciFIkRyQ6W8CCDZazR6HQutk6do1rzju2vTiub85c+0wWMlDiB1PRekqc1twakm7K3LiuD5npL5cl/X5HC8LjalGSnTk4tdj5rie/1a1zhU/J12qcmtlN+ZJ8/R9vaXR0Gh5o+nPLkVaFS9NSi9+Y6lJ3s2vK7yosPpiCmnluZDbYbvLZW/gl7yjjNMYZJqdejePRON+xMDTu1v9j+oqnnZ5M8/LXDBxVvGyk+iMZv3tJFLE69ULeRTrNri1GK72B64Dw1TXyXoUIrrlNv3JIp1ddMU/NVGPKLfxNjR0UEjl9bWXFy315L1VGPcihWx9afn1asuc5P5k1cdbq4iEPPnCPrSS7yjV0/hY769L2Pa+G5yloRIaY6XV1wwi3TnL1YP+KxSq69Ul5lKrLm4x+p4FiXGmPY1dfJvzKEF60nLusUq2umKe7xUeUL/ABNnmYyyFuQbFXWXFy316i9W0fhSKVbSFWXn1KkvWlJ97KiYBT/GEnjCuPTAeqg5VCJjWBO5DJEbYOQHR/BT9lX/AHkfhAXwUfY1/wB5H4EBZ4SvdAAFRHXoxnFwnGMoyVnGSupJ70095ynXXUOVDaxGDTnS3zp5udFdMeMo+9da3daAD5obGnWtddQI1trEYNKFXOUqeShW6XHhGfufVvOT4ilKEnCcXGUXsyi1Zxa3pp7jKmW4CcB8shrCmyjkVKuRbbyK1fiBq6v6x4uFPxcK1RRVna97Xvlnc1q2lq8/Oq1OW1JLsTsea0CsvZHuNpIIWo285Nvm7jUuocJYA2R1hEh1wBDxiFAfcbcQS4U+4lxLhcAbGg2JcBiFGpjrgLcW41sS4EjBMjchUwJbiNke0LcBWwuJcRyIOneChf3es/8AVt2Qj9QJPBVH+51H96vK3XaFNd9+wDU8JXtAACoAAAA81rfqfSxsdtWp1oq0aiXndEai9Je9dqfpQA+dNL6Mq4eo6NeDjOPtjNcJQfpRfT8zOmfROn9BUMZS8VXje2cZLKdJ9MJcOW58bnFNbNVq2BqWn5VOTtCql5M/2ZL0ZW4dl87ZsV59vIq4ncWp5EGJXk36mFWdARunyj8JsWMXQDyfKPcjcQQgDpRG2AAuIkKwC4XGsLhTmI2JcRgOuFxtxHIB1xLkcqyW9ot4bReJq/ZYfETT4qnLZ/E1b3gVYjrm/g9QtIT30qdP95Uj3Q2mbWF8F9V/bYmEelQg5dkpNdwR4VyGuZ1XCeDTCR+0niKnU5KK/wCCT95s4TVDAU/NwtF24zXjX21LjDXEaTc3swTk+iKcn2I1sJqzjavmYWtzmvF//Ro7hRoxgrQjGK6IpJdiJC4a5JhPB1jJee6FNdcnKS9kVb3jtO+DzFUqMZYaUa9RzSlG0aahDZk3JOU/Kd1FWy3nWQGGuT4TUDEyttR2fXnFe6F2buC8HijnOpBerFyfslJ5dh7sDl9PPu2un231MU9EaOjh6SowcmouTu7Xe1Jye5dYhdA6ySTI527doAAKgAAAAAAAhxmEhVpypVYRnCatKMldNEwAcW141FqYS9ehtVMOs3xnh1+196H7XDj0vw1deQ+R9RNHK/CD4O21LEaPhwvPDx+Kiu+HZ0OWLrmug1k+UPhRtRMXRiccndO0Lp5NNRV009zubEJ23sipHIbJjowk90ZPknbt3CxwlR8Ir1mv4bmL3zPNanHV8RHtA2e10H4PXWpQrVMRsqotrZhDNf75Sz/Cehwng5wUfP8AH1fXqNe6mom5+s38cnc0h2HpzqO1KFSo+iEZTf8AxTO34TVrB0s6eGoJri4KUvxSuzVjFJWSSXUXE1xLDaqY+p5uFqJPjNwp29kmn7jYwvg2xcvtKuHp8nKo17LJe86sAw14HC+DCivtcRWl6ihTT7VJ+82cLqJgIZ+J2301Jzkn/tb2fcelAuIqYPRlCl9lRpU/UhGPci2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABzbXjQSnpCFXZp2qU1HinKcdu8pWWeVuL3FjA6jSaUtqjBP7qbftyXeAHn+udd3Xb+7zzMbGH1Jor7SpVlytFdzfvNHDasYSG6jB9c7z+JsUDrPi4niMX5Or7asIKKSikksklklyQ4ANsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/9k=",
+           "name":"Шерона Barhat Grey",
+            "type":"Спальни",
+            "price": "4 690₽",
+            "size":[170, 40, 200]
+        },
+        {
+            "img":"./img/cardscatal/image 2 (3).png",
+           "name":"Равенна-1 Light",
+            "type":"Спальни",
+            "price": "4 690₽",
+            "size":[70, 43, 180]
+        },
+        {
+            "img":"https://mordoviamebel.ru/image/cache/catalog/product/divan/f1ea94bb/fbd09d87fa7ade931a10c4caa610c970-1900x1000.jpg",
+           "name":"Стелла Дуб Сонома",
+            "type":"Спальни",
+            "price": "4 690₽",
+            "size":[120, 40, 77]
+        },
+        {
+            "img":"./img/cardscatal/image 2 (2).png",
+           "name":"Авиньон-1",
+            "type":"Спальни",
+            "price": "18 990₽",
+            "size":[110, 40, 70]
+        },
+        {
+            "img":"./img/cardscatal/бенфлит.png",
+           "name":"Толикс-2 White Gloss",
+            "type":"Кухонные",
+            "price": "4 690₽",
+            "size":[55, 50, 15]
+        },
+        {
+            "img":"./img/cardscatal/тиффани.png",
+           "name":"Толикс-2 White Gloss",
+            "type":"Кухонные",
+            "price": "4 690₽",
+            "size":[120, 60, 43]
+        },
+        {
+            "img":"./img/cardscatal/валенсия.png",
+           "name":"Толикс-2 White Gloss",
+            "type":"Кухонные",
+            "price": "4 690₽",
+            "size":[150, 47, 183]
+        },
+        {
+            "img":"./img/cardscatal/лайт 3.png",
+           "name":"Толикс-2 White Gloss",
+            "type":"Кухонные",
+            "price": "4 690₽",
+            "size":[200, 43, 192]
+        },
+        {
+            "img":"data:image/jpeg;base64,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",
+           "name":"Шерона Barhat Grey",
+            "type":"Спальни",
+            "price": "4 690₽",
+            "size":[170, 40, 200]
+        },
+        {
+            "img":"./img/cardscatal/image 2 (3).png",
+           "name":"Равенна-1 Light",
+            "type":"Спальни",
+            "price": "4 690₽",
+            "size":[70, 43, 180]
+        },
+        {
+            "img":"https://mordoviamebel.ru/image/cache/catalog/product/divan/f1ea94bb/fbd09d87fa7ade931a10c4caa610c970-1900x1000.jpg",
+           "name":"Стелла Дуб Сонома",
+            "type":"Спальни",
+            "price": "4 690₽",
+            "size":[120, 40, 77]
+        },
+        {
+            "img":"./img/cardscatal/image 2 (2).png",
+           "name":"Авиньон-1",
+            "type":"Спальни",
+            "price": "18 990₽",
+            "size":[110, 40, 70]
+        },
+        {
+            "img":"./img/cardscatal/бенфлит.png",
+           "name":"Толикс-2 White Gloss",
+            "type":"Кухонные",
+            "price": "4 690₽",
+            "size":[55, 50, 15]
+        },
+        {
+            "img":"./img/cardscatal/тиффани.png",
+           "name":"Толикс-2 White Gloss",
+            "type":"Кухонные",
+            "price": "4 690₽",
+            "size":[120, 60, 43]
+        },
+        {
+            "img":"./img/cardscatal/валенсия.png",
+           "name":"Толикс-2 White Gloss",
+            "type":"Кухонные",
+            "price": "4 690₽",
+            "size":[150, 47, 183]
+        },
+        {
+            "img":"./img/cardscatal/лайт 3.png",
+           "name":"Толикс-2 White Gloss",
+            "type":"Кухонные",
+            "price": "4 690₽",
+            "size":[200, 43, 192]
+        }
+        
+
+    ]
+}

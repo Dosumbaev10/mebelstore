@@ -1,0 +1,35 @@
+.outside{
+    margin-top: 0px;
+    background: #313131;
+    height: 38px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    &__content{
+        margin: 10px 0 12px 0;
+        display: flex;
+        justify-content: space-between;
+    }
+    &__titleft{
+        margin-right: 612px;
+        display: flex;
+        justify-content: space-between;
+    }
+    &__titlefts{
+        font-weight: 400;
+        font-size: 14px;
+        margin: 0 30px 0 0;
+    }
+    &__titright{
+        margin-right: 0;
+        display: flex;
+        justify-content: space-between;
+        }
+    &__titrights{
+        font-weight: 400;
+        font-size: 14px;
+        margin: 0 0 0 30px;
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    }
