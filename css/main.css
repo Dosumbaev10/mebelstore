@@ -1,0 +1,22 @@
+.actual__container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 1140px;
+  height: 120px;
+  margin-top: 20px;
+}
+
+.actual__title {
+  margin-left: 40px;
+}
+
+.actual__price {
+  margin-left: 714px;
+}
+
+body {
+  max-width: 1200px;
+  margin: auto;
+}
+/*# sourceMappingURL=main.css.map */
